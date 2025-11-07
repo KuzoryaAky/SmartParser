@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\SmartParser\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A99212D-3BE1-4FDD-A368-F2149AD6C1C4}|SmartParser.Console\\SmartParser.Console.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\smartparser\\smartparser.console\\models\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A99212D-3BE1-4FDD-A368-F2149AD6C1C4}|SmartParser.Console\\SmartParser.Console.csproj|solutionrelative:smartparser.console\\models\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A99212D-3BE1-4FDD-A368-F2149AD6C1C4}|SmartParser.Console\\SmartParser.Console.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\smartparser\\smartparser.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A99212D-3BE1-4FDD-A368-F2149AD6C1C4}|SmartParser.Console\\SmartParser.Console.csproj|solutionrelative:smartparser.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A99212D-3BE1-4FDD-A368-F2149AD6C1C4}|SmartParser.Console\\SmartParser.Console.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\smartparser\\smartparser.console\\services\\parserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A99212D-3BE1-4FDD-A368-F2149AD6C1C4}|SmartParser.Console\\SmartParser.Console.csproj|solutionrelative:smartparser.console\\services\\parserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A99212D-3BE1-4FDD-A368-F2149AD6C1C4}|SmartParser.Console\\SmartParser.Console.csproj|c:\\users\\\u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\smartparser\\smartparser.console\\models\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A99212D-3BE1-4FDD-A368-F2149AD6C1C4}|SmartParser.Console\\SmartParser.Console.csproj|solutionrelative:smartparser.console\\models\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,39 +34,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\SmartParser\\SmartParser.Console\\Program.cs",
               "RelativeDocumentMoniker": "SmartParser.Console\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\SmartParser\\SmartParser.Console\\Program.cs",
-              "RelativeToolTip": "SmartParser.Console\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\SmartParser\\SmartParser.Console\\Program.cs*",
+              "RelativeToolTip": "SmartParser.Console\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T18:34:07.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ParserService.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\SmartParser\\SmartParser.Console\\Services\\ParserService.cs",
               "RelativeDocumentMoniker": "SmartParser.Console\\Services\\ParserService.cs",
               "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\SmartParser\\SmartParser.Console\\Services\\ParserService.cs",
               "RelativeToolTip": "SmartParser.Console\\Services\\ParserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T18:22:27.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "NewsItem.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\SmartParser\\SmartParser.Console\\Models\\NewsItem.cs",
               "RelativeDocumentMoniker": "SmartParser.Console\\Models\\NewsItem.cs",
-              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\SmartParser\\SmartParser.Console\\Models\\NewsItem.cs*",
-              "RelativeToolTip": "SmartParser.Console\\Models\\NewsItem.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\source\\repos\\SmartParser\\SmartParser.Console\\Models\\NewsItem.cs",
+              "RelativeToolTip": "SmartParser.Console\\Models\\NewsItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T18:22:10.78Z",
               "EditorCaption": ""

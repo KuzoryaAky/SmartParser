@@ -3,6 +3,7 @@ using System.Text.Json.Serialization;
 
 public record NewsItem
 {
+    [JsonPropertyName("id")]
     public int Id { get; init; }
 
     [JsonPropertyName("title")]
@@ -10,5 +11,7 @@ public record NewsItem
 
     [JsonPropertyName("body")]
     public string Body { get; init; } = string.Empty;
+    [JsonPropertyName("userId")]
+    public int UserId { get; init; }
     public DateTime PublishedDate { get; init; }
 }
