@@ -1,6 +1,17 @@
-﻿using SmartParser.Console.Service;
+﻿using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using SmartParser.Console.Service;
 
-var parser = new ParserService();
+var host = Host.CreateDefaultBuilder()
+    .ConfigureServices((context, services) =>
+    {
+        services.AddHttpClient<ParserService>();
+
+        services.AddTransient<ParserService>();
+    })
+    .Build();
+
+var parser = host.Services.GetRequiredService<ParserService>();
 var news = await parser.ParseNewsAsync();
 
 Console.WriteLine($"Parsed {news.Count} news items");
@@ -25,3 +36,5 @@ foreach (var cat in categories.Distinct())
     var count = categories.Count(c => c == cat);
     Console.WriteLine($"{cat}: {count} items");
 }
+
+
